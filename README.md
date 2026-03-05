@@ -9,3 +9,5 @@ r, annual rate of interest
 
 Output:
 simple interest = p*t*r
+
+This project calculates simple interest using a shell script.
